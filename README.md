@@ -1,7 +1,4 @@
-# UNet-pytorch
-
-## Overview
-This is the code for kaggle 2018 data science bowl nuclei segmentation (https://www.kaggle.com/c/data-science-bowl-2018). We will use UNet to perform the segmentation task.
+# U-Net-pytorch
 
 ## Dependencies
 
